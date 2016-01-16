@@ -5,8 +5,7 @@
 
 ##关于作者
 + Weibo:<a href="http://weibo.com/u/3164465513">-77摄氏度的爱</a>
-+ Zhihu:<a href="									http://www.zhihu.com/people/dong-jun-50-91
-">Jason</a>
++ Zhihu:<a href="http://www.zhihu.com/people/dong-jun-50-91">Jason</a>
 + More：<a href="http://dongjun111111.github.io/">Me</a>
 
 ##版权声明
