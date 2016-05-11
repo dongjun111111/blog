@@ -4,7 +4,7 @@
 + 所有博客文章将以GitHub Issues的形式发布。<a href="https://github.com/dongjun111111/blog/issues">点这里</a>
 
 ##关于作者
-+ Weibo:<a href="http://weibo.com/u/3164465513" target="_blank">-77摄氏度的爱</a>
++ Weibo:<a href="http://weibo.com/u/3164465513" target="_blank">Jason903456</a>
 + Zhihu:<a href="http://www.zhihu.com/people/dong-jun-50-91" target="_blank">Jason</a>
 + More：<a href="http://dongjun111111.github.io/">Me</a>
 
