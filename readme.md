@@ -5,7 +5,7 @@
 
 ##关于作者
 + Weibo:<a href="http://weibo.com/u/3164465513" target="_blank">Jason903456</a>
-+ Zhihu:<a href="http://www.zhihu.com/people/dong-jun-50-91" target="_blank">Jason</a>
++ Zhihu:<a href="http://www.zhihu.com/people/djason" target="_blank">Jason</a>
 + More：<a href="http://dongjun111111.github.io/">Me</a>
 
 ##版权声明
